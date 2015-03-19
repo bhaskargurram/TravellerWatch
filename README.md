@@ -1,4 +1,2 @@
-# LocationWithMap
-This is an android based project for detecting the user location and plotting it on googlemap.
-I have used here GoogleMaps. Please see the google APIS to add googlemap to your project.
-I have left meta tag in android manifest, please obtain your apikey and fill at that location.
+# TravellerWatch
+This is an android based project for detecting the user location and plotting it on googlemap and also this stores the history where the user has been to and also plots it on th map and calculates the distance travelled.
